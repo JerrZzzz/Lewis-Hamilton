@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  title: "My CV"
+  title: "Lewis Hamilton"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - Aboutme.qmd
 
 format:
   html:
