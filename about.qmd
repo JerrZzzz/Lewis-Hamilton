@@ -1,6 +1,6 @@
 ---
 title: "about"
-format: pdf
+format: html
 author: "Zhijun Zhong"
 ---
 
